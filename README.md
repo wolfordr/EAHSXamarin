@@ -11,8 +11,10 @@ This repository will contain a number of test projects created by Mr. Tanczos in
 ## My First Project: HelloWorld <a name="helloworld"></a>
 This project is a small cookie clicker type game designed to demonstrate some basic Xamarin UI concepts
 
+Source: [HelloWorld](https://github.com/eahs/EAHSXamarin/tree/master/HelloWorld)
+
 ## Starter Calculator <a name="calculator"></a>
-As a first app project this starter calculator project demonstrates the Grid layout and shows how you can use a single event handler to work with multiple buttons.
+As a first app project this starter calculator project demonstrates the Grid layout and shows how you can use a single event handler to work with multiple buttons.   
 
 ## Useful Projects <a name="useful"></a>
 The following projects are used to demonstrate concepts that might be of some utility depending on the type of app you are trying to create.
