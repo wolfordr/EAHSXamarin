@@ -16,8 +16,12 @@ Source: [HelloWorld](https://github.com/eahs/EAHSXamarin/tree/master/HelloWorld)
 ## Starter Calculator <a name="calculator"></a>
 As a first app project this starter calculator project demonstrates the Grid layout and shows how you can use a single event handler to work with multiple buttons.   
 
+Source: [Calculator](https://github.com/eahs/EAHSXamarin/tree/master/Calculator)
+
 ## Useful Projects <a name="useful"></a>
 The following projects are used to demonstrate concepts that might be of some utility depending on the type of app you are trying to create.
 
 ### Instabug DependencyService Bug Tracking <a name="instabug"></a>
 This project wraps the Instabug bug tracking calls in a dependency service and allows you to invoke the bug reporting event from Xamarin.Forms.
+
+Source: [InstabugDependencyService](https://github.com/eahs/EAHSXamarin/tree/master/InstabugDependencyService)
